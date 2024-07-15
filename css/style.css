@@ -35,6 +35,17 @@ body{
   width: 100%;
   height: 70vh;
 }
+@media (max-width :992px){
+  #title{
+    height: 110vh;
+  }
+}
+@media (max-width:768px){
+  #title{
+    height:110vh;
+  }
+  
+}
 .bg-custom-grey {
   background-color: #f0f0f0; /* Custom grey color */
 }
