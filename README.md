@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TinDog Project
 
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
@@ -79,3 +80,7 @@ $29/mo
 Pirority Listing
 Unlimited Matches & Messages
 Unlimited App Usage
+=======
+# Tindog
+A fun dog dating interface using html + css + bootstrap
+>>>>>>> f41f6a7b58d109a0d272ebbf22a19bc789b48b57
